@@ -1112,11 +1112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\J. Gregorio\\Desktop\\DespesasApi\\DespesasApi.csproj",
+      "projectUniqueName": "C:\\Users\\J. Gregorio\\Desktop\\Projetos\\DespesasApi\\DespesasApi.csproj",
       "projectName": "DespesasApi",
-      "projectPath": "C:\\Users\\J. Gregorio\\Desktop\\DespesasApi\\DespesasApi.csproj",
+      "projectPath": "C:\\Users\\J. Gregorio\\Desktop\\Projetos\\DespesasApi\\DespesasApi.csproj",
       "packagesPath": "C:\\Users\\J. Gregorio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\J. Gregorio\\Desktop\\DespesasApi\\obj\\",
+      "outputPath": "C:\\Users\\J. Gregorio\\Desktop\\Projetos\\DespesasApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
